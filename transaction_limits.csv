@@ -1,0 +1,11 @@
+limit_id,account_type,max_daily_limit,max_transaction_amount
+1,credit,13683.81,9540.06
+2,savings,31970.62,7774.18
+3,business,11500.15,10274.43
+4,business,14630.99,17085.39
+5,business,46622.65,10649.26
+6,joint,31856.67,19599.35
+7,savings,13042.82,15336.88
+8,savings,49270.8,9787.94
+9,savings,41486.25,13965.42
+10,credit,46584.78,15947.54
